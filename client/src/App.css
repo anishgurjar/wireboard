@@ -240,6 +240,7 @@ body {
   position: relative;
   overflow: hidden;
   background: var(--bg);
+  user-select: none;
 }
 
 .board-canvas {
