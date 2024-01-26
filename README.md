@@ -27,3 +27,19 @@ cd client && npm install && npm run dev
 Open [http://localhost:5173](http://localhost:5173)
 
 > No MongoDB? It still works — data just resets on server restart.
+
+---
+
+## Usage
+
+| Action | How |
+|--------|-----|
+| Add a shape | Click any component in the left panel |
+| Move shapes | Select tool → drag |
+| Connect shapes | Connector tool → click shape A → click shape B |
+| Rename a shape | Double-click it |
+| Erase | Eraser tool → click any shape or connector |
+| Freehand draw | Draw tool |
+| Delete selected | `Delete` or `Backspace` |
+| Cancel operation | `Escape` |
+| Export diagram | “Export PNG” button |
