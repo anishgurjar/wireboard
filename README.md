@@ -1,6 +1,6 @@
 # Wireboard
 
-A minimal whiteboard for drawing architecture diagrams. Drop in pre-built shapes — servers, databases, APIs, queues, load balancers — connect them with arrows, annotate with freehand drawing, and export as PNG. Boards auto-save so you can pick up where you left off. Built for engineers who just want to sketch something out fast without fighting a general-purpose tool.
+A minimal whiteboard for drawing architecture diagrams. Drop in pre-built shapes such as servers, databases, APIs, queues, load balancers — connect them with arrows, annotate with freehand drawing, and export as PNG. Boards auto-save so you can pick up where you left off. Built for engineers who just want to sketch something out fast without fighting a general-purpose tool.
 
 ![Wireboard screenshot](./assets/screenshot.png)
 
